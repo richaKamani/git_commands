@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-   cout << "conflict file from child" << endl;
+   cout << "conflict name file from main" << endl;
     return 0;
 }
