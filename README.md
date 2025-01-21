@@ -1,9 +1,9 @@
-Git Hub Commands : 
+##Git Hub Commands : 
 
-Perform following things : 
+##Perform following things : 
 
-git clone 
-git add to do files staged file
+#git clone 
+#git add to do files staged file
 git push
 git pull
 git fetch
